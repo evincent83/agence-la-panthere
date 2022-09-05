@@ -7682,10 +7682,17 @@ button.close {
     margin: 1px;
     text-indent: -999px;
     cursor: pointer;
+<<<<<<< HEAD
     background-color: #000;
     background-color: rgba(0, 0, 0, 0);
     border: 1px solid #fff;
     border-radius: 10px;
+=======
+    background-color: #000\9;
+    background-color: rgba(0, 0, 0, 0);
+    border: 1px solid #fff;
+    border-radius: 10px
+>>>>>>> c77d41fbac52867af2a80b794dccff9d88f6a298
 }
 
 .carousel-indicators .active {
