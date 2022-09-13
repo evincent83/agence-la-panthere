@@ -484,6 +484,10 @@ button {
     font-size: 60px!important;
 }
 
+.icon-padding {
+    padding: 20px;
+}
+
 .sm-shadow {
     text-shadow: 0 1px 2px rgba(0, 0, 0, .3);
 }
