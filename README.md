@@ -1,3 +1,5 @@
-# agence-la-panthere.github.io
-Project 4 Openclassrooms
-Projet SEO Lighthouse and Gtmetrix performance
+# [Agence La Panthère] - Mise en contexte
+
+Amélioration du SEO.
+Rapport d'optimisation comprenant les modifications pour le réferencement et les performances.
+Rapport Lighshot et Gtmetrix.
